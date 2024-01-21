@@ -110,6 +110,7 @@ button{
 button:hover{
     background-color: hsla(245, 75%, 52%, 0.779);
     cursor: pointer;
+    transition: .3s ease;
     
 }
 
@@ -122,6 +123,7 @@ button:hover{
 .order:hover{
     color:black;
     cursor: pointer;
+    transition: .5s ease;
  
 }
 
